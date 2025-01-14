@@ -16,4 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxsdev&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="syntaxsdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxsdev&show_icons=true&locale=en" alt="syntaxsdev" /></p>
